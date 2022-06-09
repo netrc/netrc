@@ -2,12 +2,13 @@
 
 Lots of projects in alpha mode.... A couple in "prod"
 
-https://richard.campbell.com  and my blog  https://netrc-ghost-1.fly.dev
+https://richardcampbell.com  and my blog  https://netrc-ghost-1.fly.dev
 
 #### Highlights
 * UNIX/C programmer;  Kernel work at University of Michigan, CITI, on the IFS (AFS) Project
 * C++/Infrastructure on Wall Street
 * Enterprise Architecture
+* See https://richardcampbell.com/techtimeline.html
 
 <!--
 **netrc/netrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
